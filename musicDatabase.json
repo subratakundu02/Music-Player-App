@@ -1,0 +1,22 @@
+[
+    { "id": 1, "title": "Chaleya", "artist": "Arijit Singh", "src": "music/Chaleya Jawan 128 Kbps.mp3" },
+    { "id": 2, "title": "Faraatta", "artist": "Arijit Singh", "src": "music/Faraatta Jawan 128 Kbps.mp3" },
+    { "id": 3, "title": "Parinda", "artist": "Artist 1", "src": "music/parinda.mp3" },
+    { "id": 4, "title": "Sadda Haq", "artist": "Artist 2", "src": "music/sadda haq.mp3" },
+    { "id": 4, "title": "Girlfriend", "artist": "Jass Manak", "src": "music/Girlfriend Age 19 128 Kbps.mp3" },
+    { "id": 5, "title": "Faded", "artist": "Alan Walkar", "src": "music/y2mate.com - Alan Walker  Faded.mp3" },
+    { "id": 5, "title": "Saiyaan", "artist": "Jass Manak", "src": "music/Saiyaan Jass Manak 128 Kbps.mp3" },
+    { "id": 6, "title": "Cartoon On On", "artist": "Artist 1", "src": "music/y2mate.com - Cartoon  On  On feat Daniel Levi  NCS  Copyright Free Music.mp3" },
+    { "id": 7, "title": "Clean Bandit", "artist": "Artist 1", "src": "music/y2mate.com - Clean Bandit  Rather Be Lyrics feat Jess Glynne.mp3" },
+    { "id": 8, "title": "Make Me Move", "artist": "Artist 1", "src": "music/y2mate.com - Culture Code  Make Me Move feat Karra  Official Video HD  NB MUSIC R.mp3" },
+    { "id": 9, "title": "The Underground", "artist": "Artist 1", "src": "music/y2mate.com - Dave Crusher   Jessica Chertock   The Underground Magic Free Release.mp3" },
+    { "id": 10, "title": "Clear My Head", "artist": "Artist 1", "src": "music/y2mate.com - Ellis  Clear My Head NCS Release.mp3" },
+    { "id": 11, "title": "Lemon Fight", "artist": "Artist 1", "src": "music/y2mate.com - Lemon Fight  Stronger feat Jessica Reynoso NCS Release.mp3" },
+    { "id": 12, "title": "Fearless", "artist": "Artist 1", "src": "music/y2mate.com - Lost Sky  Fearless ptII feat Chris Linton  NCS  Copyright Free Music.mp3" },
+    { "id": 13, "title": "Feel Good", "artist": "Artist 1", "src": "music/y2mate.com - Syn Cole  Feel Good  Melodic House  NCS  Copyright Free Music.mp3" },
+    { "id": 14, "title": "TiK ToK", "artist": "Artist 1", "src": "music/y2mate.com - TiK ToK EQRIC  JOZUA  Robbe  Cover Magic Cover Release.mp3" },
+    { "id": 14, "title": "Falling Down", "artist": "Artist 1", "src": "music/y2mate.com - Wild Cards  Falling Down Lyrics  Lyric Video ft James Delaney.mp3" },
+    { "id": 15, "title": "HALUNA - Unfaithful", "artist": "Artist 1", "src": "music/y2mate.com - Yohan Gerber Bersage HALUNA  Unfaithful.mp3" },
+    { "id": 16, "title": "Zinda", "artist": "Artist 1", "src": "music/zinda.mp3" }
+    
+]
